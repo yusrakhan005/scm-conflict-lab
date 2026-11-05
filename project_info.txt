@@ -1,4 +1,4 @@
-Project Title: Untitled
+Project Title: Student Portal
 Team Members: Yusra and Areeba
 Course: SCM Lab
 Status: In Progress
