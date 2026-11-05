@@ -1,4 +1,4 @@
 Project Title: Student Library Portal
 Team Members: Yusra and Areeba
-Course: SCM Lab 7
+Course: Software Configuration Management (SCM Lab 7)
 Status: In Progress
